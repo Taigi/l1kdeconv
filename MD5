@@ -1,0 +1,10 @@
+b0646778edc6ec73cc495003c00f2ddf *DESCRIPTION
+f0540f0546d3c518e0d9870bfc47b628 *NAMESPACE
+1717766799e6ccd2e1b59d834500ace4 *R/getclusterranges.R
+b2c3951fd0cbe9425d857146504bfce1 *R/multigmmsamedistribu.R
+a3d1c29600ec02510969b4adb9aeeaa7 *R/multigmmsamedistribulik.R
+814ef4951445959eb04ab29d97e5f093 *R/rmoutlier1d.R
+7d4cac8310bc10492aa250df4078997c *man/getclusterranges.Rd
+23b5d0bf3624ec2e37501c8b42bc0859 *man/multigmmsamedistribu.Rd
+a694ac83e95ddfd274ad81b5753964bd *man/multigmmsamedistribulik.Rd
+53a7b41ab32b31eff862e038e6b2fef6 *man/rmoutlier1d.Rd
