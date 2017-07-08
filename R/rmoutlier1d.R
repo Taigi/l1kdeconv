@@ -4,11 +4,11 @@
 #' Remove the Outliers in a Vector of 1D Coordinates
 #'
 #' @param x a numeric vector
-#' @param dy_thr threshold for y
-#' @param clustersize_thr threshod for outlier cluster size
-#' @param gapsize threshod for gap size
+#' @param dy_thr the threshold for dy
+#' @param clustersize_thr the threshold for cluster size
+#' @param gapsize the threshold of points in recognizing data free gap 
 #' @keywords distribution
-#' @export
+#' @export 
 #' @examples
 #' x=c(1,10:30,50)
 #' par(mfrow=c(2,1))

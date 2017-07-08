@@ -3,7 +3,7 @@
 #'
 #' The sum of Log-Likelihoods of 1D Multi Same Distribution Gaussian Mixture Model
 #'
-#' @param x a list of numeric vectors. par contains lambda, sigma, and the parameters for each GMM, delta_mu and mean_mu. For example, supposing there are two GMM, the par would be (lambda, sigma ,mean_mu1, mean_mu2, delta_mu1, delta_mu2).  
+#' @param x a list of numeric vectors
 #' @keywords distribution
 #' @export
 #' @examples

@@ -4,7 +4,7 @@
 #' Get the Cluster Ranges in a Vector of 1D Coordinates
 #'
 #' @param x a numeric vector
-#' @param gap a threshold for recognization of data free gap
+#' @param gap the size for the recognation of data free gaps
 #' @keywords distribution
 #' @export
 #' @examples
